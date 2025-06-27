@@ -1,6 +1,6 @@
 # 🏗️ BuildQue – Construction Service Company Website
 
-BuildQue is a responsive website mockup for a fictional construction service company. Developed using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, this site showcases a modern, mobile-friendly design tailored to the needs of the construction industry.
+BuildQue is a responsive website mockup for a construction service company. Developed using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, this site showcases a modern, mobile-friendly design tailored to the needs of the construction industry.
 
 ---
 
